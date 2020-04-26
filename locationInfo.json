@@ -1,0 +1,593 @@
+
+
+
+{
+  "120000": {
+    "home_grid": [
+      {
+        "name": "新闻发布",
+        "icon": "images/home/news_pub.png",
+        "path": "null",
+        "pageIndex": 0
+      }, {
+        "name": "工作动态",
+        "icon": "images/gzdt.png",
+        "pageIndex": 1,
+        "outlink": null
+      }, {
+        "name": "通知公告",
+        "icon": "images/tzgg.png",
+        "pageIndex": 5,
+        "outlink": null
+      },{
+        "name": "党建学习",
+        "icon": "images/gjxx.png",
+        "pageIndex": -1,
+        "outlink": "https://web.dangqun.ccb.com/mobilemainpageforthirdparty/portalDefault.action?pID=guest&companyID=79413170411446301299000708582"
+      }, {
+        "name": "法规解读",
+        "icon": "images/bszn.png",
+        "pageIndex": 6,
+        "outlink": null
+      }, {
+        "name": "最美退役军人",
+        "icon": "images/zmtyjr.png",
+        "pageIndex": 11,
+        "outlink": null
+      }, {
+        "name": "就业政策",
+        "icon": "images/jycy.png",
+        "pageIndex": 8,
+        "outlink": null
+      }, {
+        "name": "建融家园",
+        "icon": "images/rjjy.png",
+        "pageIndex": -1,
+        "outlink": "https://sj.jiayuan.ccbhome.cn"
+      }, {
+        "name": "政策法规",
+        "icon": "images/pxjd.png",
+        "pageIndex": 3,
+        "outlink": null
+      }
+    ],
+    "policy": [
+      {
+        "title": "新闻发布",
+        "type": "0014"
+      }, {
+        "title": "工作动态",
+        "type": "0015"
+      }, {
+        "title": "媒体报道",
+        "type": "0016"
+      }, {
+        "title": "政策法规",
+        "type": "0011"
+      }, {
+        "title": "财政预决算",
+        "type": "0026"
+      }, {
+        "title": "通知公告",
+        "type": "0012"
+      }, {
+        "title": "法规解读",
+        "type": "0013"
+      }, {
+        "title": "培训政策",
+        "type": "0002"
+      }, {
+        "title": "就业政策政策",
+        "type": "0005,0006,0010"
+      }, {
+        "title": "调查征集",
+        "type": "0021"
+      },{
+        "title": "问题选登",
+        "type": "0023"
+      }, {
+        "title": "最美退役军人",
+        "type": "0017"
+      }
+    ],
+    "home_wd_ty": "0015",
+    "home_banner_ty": "0001,0002,0003,0004,0005,0006,0007,0008,0009,0010,0011,0012,0013,0014,0015,0016,0017,0018,0019,0020,0021,0022,0023,0024,0025,0026,0027,0028"
+  },
+  "460000": {
+    "home_grid": [
+      {
+        "name": "政策法规",
+        "icon": "images/zcfg.png",
+        "pageIndex": 3,
+        "outlink": null
+      },
+      {
+        "name": "工作动态",
+        "icon": "images/gzdt.png",
+        "pageIndex": 1,
+        "outlink": null
+      },
+      {
+        "name": "通知公告",
+        "icon": "images/tzgg.png",
+        "pageIndex": 4,
+        "outlink": null
+      },
+      {
+        "name": "党建学习",
+        "icon": "images/gjxx.png",
+        "pageIndex": 6,
+        "outlink": "https://web.dangqun.ccb.com/mobilemainpageforthirdparty/portalDefault.action?pID=guest&companyID=79413170411446301299000708582"
+      },
+      {
+        "name": "法律服务",
+        "icon": "images/flfw.png",
+        "pageIndex": 6,
+        "outlink": null
+      },
+      {
+        "name": "最美退役军人",
+        "icon": "images/zmtyjr.png",
+        "pageIndex": 11,
+        "outlink": null
+      },
+      {
+        "name": "就业政策",
+        "icon": "images/jycy.png",
+        "pageIndex": 10,
+        "outlink": null
+      },
+      {
+        "name": "新闻发布",
+        "icon": "images/home/news_pub.png",
+        "pageIndex": 0,
+        "outlink": null
+      },
+      {
+        "name": "建融家园",
+        "icon": "images/rjjy.png",
+        "pageIndex": 8,
+        "outlink": "https://sj.jiayuan.ccbhome.cn"
+      }
+    ],
+    "policy": [
+      {
+        "title": "新闻发布",
+        "type": "SY_0001"
+      }, {
+        "title": "工作动态",
+        "type": "SY_0002"
+      }, {
+        "title": "媒体报道",
+        "type": "SY_0003"
+      }, {
+        "title": "政策法规",
+        "type": "SY_0016"
+      }, {
+        "title": "通知公告",
+        "type": "SY_0017"
+      }, {
+        "title": "军转安置",
+        "type": "SY_0013"
+      }, {
+        "title": "救助帮扶",
+        "type": "SY_0014"
+      },{
+        "title": "信息公开",
+        "type": "SY_0007"
+      }, {
+        "title": "办事流程",
+        "type": "SY_0008"
+      }, {
+        "title": "调查征集",
+        "type": "SY_0009,SY_0010"
+      }, {
+        "title": "就业政策",
+        "type": "SY_0023"
+      }, {
+        "title": "最美退役军人",
+        "type": "SY_0025,SY_0026"
+      }
+    ],
+    "home_wd_ty": "SY_0002",
+    "home_banner_ty": "SY_0001,SY_0002,SY_0003,SY_0007,SY_0008,SY_0009,SY_0010,SY_0013,SY_0014,SY_0016,SY_0017,SY_0021,SY_0023,SY_0025,SY_0026"
+  },
+  "130000":{
+    "home_grid": [
+      {
+        "name": "政策法规",
+        "icon": "images/zcfg.png",
+        "pageIndex": 3,
+        "outlink": null
+      }, {
+        "name": "工作动态",
+        "icon": "images/gzdt.png",
+        "pageIndex": 1,
+        "outlink": null
+      }, {
+        "name": "通知公告",
+        "icon": "images/tzgg.png",
+        "pageIndex": 4,
+        "outlink": null
+      }, {
+        "name": "党建学习",
+        "icon": "images/gjxx.png",
+        "pageIndex": 8,
+        "outlink": "https://web.dangqun.ccb.com/mobilemainpageforthirdparty/portalDefault.action?pID=guest&companyID=79413170411446301299000708582"
+      }, {
+        "name": "办事指南",
+        "icon": "images/bszn.png",
+        "pageIndex": 5,
+        "outlink": null
+      }, {
+        "name": "最美退役军人",
+        "icon": "images/zmtyjr.png",
+        "pageIndex": 9,
+        "outlink": null
+      }, {
+        "name": "就业政策",
+        "icon": "images/jycy.png",
+        "pageIndex": 6,
+        "outlink": null
+      }, {
+        "name": "建融家园",
+        "icon": "images/rjjy.png",
+        "pageIndex": -1,
+        "outlink": "https://sj.jiayuan.ccbhome.cn"
+      },{
+        "name": "救助帮扶",
+        "icon": "images/jzbf.png",
+        "pageIndex": 8,
+        "outlink": null
+      }
+    ],
+    "policy": [
+      {
+        "title": "新闻发布",
+        "type": "HB_COM_0001"
+      }, {
+        "title": "工作动态",
+        "type": "HB_COM_0002"
+      }, {
+        "title": "媒体报道",
+        "type": "HB_COM_0003"
+      }, {
+        "title": "政策法规",
+        "type": "HB_COM_0016"
+      }, {
+        "title": "通知公告",
+        "type": "HB_COM_0017"
+      }, {
+        "title": "办事指南",
+        "type": "HB_COM_0018"
+      }, {
+        "title": "就业政策",
+        "type": "HB_COM_0029"
+      },
+      {
+        "title": "党建服务",
+        "type": "HB_COM_0008"
+      },
+      {
+        "title": "救助帮贫",
+        "type": "HB_COM_0030"
+      },
+      {
+        "title": "最美退役军人",
+        "type": "HB_COM_0026"
+      }
+    ],
+    "home_wd_ty": "HB_COM_0002",
+    "home_banner_ty": "HB_COM_0001,HB_COM_0002,HB_COM_0003,HB_COM_0008,HB_COM_0018,HB_COM_0016,HB_COM_0017,HB_COM_0027,HB_COM_0029,HB_COM_0030,HB_COM_0024,HB_COM_0026"
+  },
+  "410000":{
+    "home_grid": [
+      {
+        "name": "政策法规",
+        "icon": "images/zcfg.png",
+        "pageIndex": 3,
+        "outlink": null
+      },
+      {
+        "name": "工作动态",
+        "icon": "images/gzdt.png",
+        "pageIndex": 1,
+        "outlink": null
+      },
+      {
+        "name": "通知公告",
+        "icon": "images/tzgg.png",
+        "pageIndex": 4,
+        "outlink": null
+      },
+      {
+        "name": "救助帮扶",
+        "icon": "images/jzbf.png",
+        "pageIndex": 6,
+        "outlink": null
+      },
+      {
+        "name": "最美退役军人",
+        "icon": "images/zmtyjr.png",
+        "pageIndex": 11,
+        "outlink": null
+      },
+      {
+        "name": "就业政策",
+        "icon": "images/jycy.png",
+        "pageIndex": 10,
+        "outlink": null
+      },
+      {
+        "name": "办事指南",
+        "icon": "images/bszn.png",
+        "pageIndex": 8,
+        "outlink": ""
+      },
+      {
+        "name": "军转安置",
+        "icon": "images/jzaz.png",
+        "pageIndex": 5,
+        "outlink": null
+      },
+      {
+        "name": "建融家园",
+        "icon": "images/rjjy.png",
+        "pageIndex": 8,
+        "outlink": "https://sj.jiayuan.ccbhome.cn"
+      }
+    ],
+    "policy": [
+      {
+        "title": "新闻发布",
+        "type": "LH_0001"
+      }, {
+        "title": "工作动态",
+        "type": "LH_0002"
+      }, {
+        "title": "媒体报道",
+        "type": "LH_0003"
+      }, {
+        "title": "政策法规",
+        "type": "LH_0016"
+      }, {
+        "title": "通知公告",
+        "type": "LH_0017"
+      }, {
+        "title": "军转安置",
+        "type": "LH_0013"
+      }, {
+        "title": "优抚褒奖",
+        "type": "LH_0014"
+      }, {
+        "title": "信息公开",
+        "type": "LH_0007"
+      }, {
+        "title": "办事流程",
+        "type": "LH_0008"
+      }, {
+        "title": "调查征集",
+        "type": "LH_0009,LH_0010"
+      }, {
+        "title": "就业政策",
+        "type": "LH_0023"
+      },
+      {
+        "title": "最美退役军人",
+        "type": "LH_0025,LH_0026"
+      }
+    ],
+    "home_wd_ty": "LH_0002",
+    "home_banner_ty": "LH_0001,LH_0002,LH_0003,LH_0007,LH_0008,LH_0009,LH_0010,LH_0013,LH_0014,LH_0016,LH_0017,LH_0021,LH_0023,LH_0025,LH_0026"
+  },
+
+  "360000":{
+    "home_grid": [
+      {
+        "name": "政策法规",
+        "icon": "images/zcfg.png",
+        "pageIndex": 4,
+        "outlink": null
+      },
+      {
+        "name": "工作动态",
+        "icon": "images/gzdt.png",
+        "pageIndex": 1,
+        "outlink": null
+      },
+      {
+        "name": "通知公告",
+        "icon": "images/tzgg.png",
+        "pageIndex": 5,
+        "outlink": null
+      },
+      {
+        "name": "党建学习",
+        "icon": "images/gjxx.png",
+        "pageIndex": -1,
+        "outlink": "https://web.dangqun.ccb.com/mobilemainpageforthirdparty/portalDefault.action?pID=guest&companyID=79413170411446301299000708582"
+      },
+      {
+        "name": "办事指南",
+        "icon": "images/bszn.png",
+        "pageIndex": 7,
+        "outlink": ""
+      },
+      {
+        "name": "退役军人风采",
+        "icon": "images/zmtyjr.png",
+        "pageIndex": 16,
+        "outlink": null
+      },
+      {
+        "name": "培训就业",
+        "icon": "images/jycy.png",
+        "pageIndex": 9,
+        "outlink": null
+      },
+      {
+        "name": "移交安置",
+        "icon": "images/jzaz.png",
+        "pageIndex": 11,
+        "outlink": null
+      },
+      {
+        "name": "建融家园",
+        "icon": "images/rjjy.png",
+        "pageIndex": 8,
+        "outlink": "https://sj.jiayuan.ccbhome.cn"
+      }
+    ],
+    "policy": [
+      {
+        "title": "新闻发布",
+        "type": "JX_COM_0001"
+      }, {
+        "title": "工作动态",
+        "type": "JX_COM_0002"
+      }, {
+        "title": "媒体报道",
+        "type": "JX_COM_0003"
+      }, {
+        "title": "地方动态",
+        "type": "JX_COM_0043"
+      },{
+        "title": "政策法规",
+        "type": "JX_COM_0016"
+      }, {
+        "title": "通知公告",
+        "type": "JX_COM_0017"
+      }, {
+        "title": "信息公开",
+        "type": "JX_COM_0006,JX_COM_0008"
+      }, {
+        "title": "办事指南",
+        "type": "JX_COM_0018"
+      }, {
+        "title": "调查征集",
+        "type": "JX_COM_0024"
+      }, {
+        "title": "培训就业",
+        "type": "JX_COM_0029,JX_COM_0027"
+      },{
+        "title": "权益维护",
+        "type": "JX_COM_0009"
+      },{
+        "title": "移交安置",
+        "type": "JX_COM_0010"
+      },{
+        "title": "拥军优抚",
+        "type": "JX_COM_0011"
+      },{
+        "title": "英烈褒扬",
+        "type": "JX_COM_0012"
+      },{
+        "title": "双拥工作",
+        "type": "JX_COM_0013"
+      },{
+        "title": "军休安置",
+        "type": "JX_COM_0014"
+      },{
+        "title": "退役军人风采",
+        "type": "JX_COM_0026,JX_COM_0030"
+      }
+    ],
+    "home_wd_ty": "JX_COM_0002",
+    "home_banner_ty": "JX_COM_0001,JX_COM_0002,JX_COM_0003,JX_COM_0016,JX_COM_0017,JX_COM_0037,JX_COM_0038,JX_COM_0039,JX_COM_0041,JX_COM_0042,JX_COM_0026"
+  },
+
+  "TEST": {
+    "home_grid": [
+      {
+        "name": "新闻发布",
+        "icon": "images/home/news_pub.png",
+        "path": "null",
+        "pageIndex": 0
+      }, {
+        "name": "工作动态",
+        "icon": "images/gzdt.png",
+        "pageIndex": 1,
+        "outlink": null
+      }, {
+        "name": "通知公告",
+        "icon": "images/tzgg.png",
+        "pageIndex": 5,
+        "outlink": null
+      },{
+        "name": "党建学习",
+        "icon": "images/gjxx.png",
+        "pageIndex": -1,
+        "outlink": "https://web.dangqun.ccb.com/mobilemainpageforthirdparty/portalDefault.action?pID=guest&companyID=79413170411446301299000708582"
+      }, {
+        "name": "法规解读",
+        "icon": "images/bszn.png",
+        "pageIndex": 6,
+        "outlink": null
+      }, {
+        "name": "最美退役军人",
+        "icon": "images/zmtyjr.png",
+        "pageIndex": 11,
+        "outlink": null
+      }, {
+        "name": "就业政策",
+        "icon": "images/jycy.png",
+        "pageIndex": 8,
+        "outlink": null
+      }, {
+        "name": "建融家园",
+        "icon": "images/rjjy.png",
+        "pageIndex": -1,
+        "outlink": "https://sj.jiayuan.ccbhome.cn"
+      }, {
+        "name": "政策法规",
+        "icon": "images/pxjd.png",
+        "pageIndex": 3,
+        "outlink": null
+      }
+    ],
+    "policy": [
+      {
+        "title": "新闻发布",
+        "type": "0014"
+      }, {
+        "title": "工作动态",
+        "type": "0015"
+      }, {
+        "title": "媒体报道",
+        "type": "0016"
+      }, {
+        "title": "政策法规",
+        "type": "0011"
+      }, {
+        "title": "财政预决算",
+        "type": "0026"
+      }, {
+        "title": "通知公告",
+        "type": "0012"
+      }, {
+        "title": "法规解读",
+        "type": "0013"
+      }, {
+        "title": "培训政策",
+        "type": "0002"
+      }, {
+        "title": "就业政策政策",
+        "type": "0005,0006,0010"
+      }, {
+        "title": "调查征集",
+        "type": "0021"
+      },{
+        "title": "问题选登",
+        "type": "0023"
+      }, {
+        "title": "最美退役军人",
+        "type": "0017"
+      }
+    ],
+    "home_wd_ty": "0015",
+    "home_banner_ty": "0001,0002,0003,0004,0005,0006,0007,0008,0009,0010,0011,0012,0013,0014,0015,0016,0017,0018,0019,0020,0021,0022,0023,0024,0025,0026,0027,0028",
+    "prov_cd": "120000",
+    "city_cd": "",
+    "city_name": "武汉市"
+  }
+}
